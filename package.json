@@ -1,0 +1,23 @@
+{
+  "name": "node_file_server",
+  "version": "1.0.0",
+  "description": "node web server that serves individual html files",
+  "main": "fileServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemarq/nodeFileServer.git"
+  },
+  "author": "John-Mike Marquardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemarq/nodeFileServer/issues"
+  },
+  "homepage": "https://github.com/codemarq/nodeFileServer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
